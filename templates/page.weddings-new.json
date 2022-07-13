@@ -1,0 +1,469 @@
+{
+  "sections": {
+    "main": {
+      "type": "static-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1655763975c48e8982": {
+      "type": "static-slideshow",
+      "blocks": {
+        "1655763975ad41f938-0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/WeddingsPageDesktop.jpg",
+            "background_image_mobile": "shopify:\/\/shop_images\/WeddingsPageMobile1.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "none",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "1655763975ad41f938-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "1655763975ad41f938-0",
+        "1655763975ad41f938-1"
+      ],
+      "settings": {
+        "show_slideshow": true,
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_height": "original"
+      }
+    },
+    "1657158463d5a449a9": {
+      "type": "dynamic-rich-text",
+      "blocks": {
+        "165715846378341fc0-0": {
+          "type": "text",
+          "settings": {
+            "title": "Explore our wedding portfolio",
+            "text": "<p>We have been providing smashing floral and brilliant wedding decor for discerning clients for over 25 years. Our designs are artful, timeless, and occasionally provocative. Our experienced wedding designers will work with you hand in hand to custom craft each event. <\/p>",
+            "heading_size": "large",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165715846378341fc0-0"
+      ],
+      "settings": {
+        "width": "regular",
+        "background_color": "",
+        "section_spacing_desktop": 25,
+        "section_spacing_mobile": 24
+      }
+    },
+    "1656885005d825d1c9": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "1656885005fbe2efcc-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0744ElizabethandCushman_Wedding_0038.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Elizabeth & Cushman",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "d79a7bcf-43a7-45f5-879c-a0a2893b02f0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Senko-791.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Megan & Matt",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "11c74799-0de5-439c-9fab-f6b699469ab3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1601994527-225.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Jossy & Brandon",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "ec3055fc-2fc1-4f7b-94ed-bef5e0318736": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Liz & Sammy",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "1656885005fbe2efcc-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1601931510-elle-ron-wedding-33.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Ellie & Ron",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "0729a413-21fd-493d-b8bc-1c4e38f7b3b7": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/200930_1792.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Marisa & Mike",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "d7c28461-8395-46ae-a799-7300c53f0f3d": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1597073731-Tati_and_Justin-2.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Tati & Justin",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "1656885005fbe2efcc-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-blake-wedding-details-23.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Molly & Blake",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "1656885005fbe2efcc-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1601995346-052916_0113.jpg",
+            "preheading": "",
+            "preheading_color": "#fffcfc",
+            "title": "JESSA & CODY",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "22008052-fd88-42e9-b93b-cb7f6baef7f1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Charley_Courtney807.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "COURTNEY & CHARLEY",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1656885005fbe2efcc-3",
+        "d79a7bcf-43a7-45f5-879c-a0a2893b02f0",
+        "11c74799-0de5-439c-9fab-f6b699469ab3",
+        "ec3055fc-2fc1-4f7b-94ed-bef5e0318736",
+        "1656885005fbe2efcc-1",
+        "0729a413-21fd-493d-b8bc-1c4e38f7b3b7",
+        "d7c28461-8395-46ae-a799-7300c53f0f3d",
+        "1656885005fbe2efcc-2",
+        "1656885005fbe2efcc-0",
+        "22008052-fd88-42e9-b93b-cb7f6baef7f1"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "background_color": "",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 20,
+        "maintain_aspect_ratio": false,
+        "compress_blocks": false
+      }
+    },
+    "1657595327dabcee21": {
+      "type": "dynamic-logo-list",
+      "blocks": {
+        "1657595327224972c3-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/InsideWeddings-Logo.png",
+            "link": ""
+          }
+        },
+        "1657595327224972c3-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stylemepretty_Logo.png",
+            "link": ""
+          }
+        },
+        "1657595327224972c3-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brides-logo.png",
+            "link": ""
+          }
+        },
+        "1657595327224972c3-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/martha-stewart-logo_1.png",
+            "link": ""
+          }
+        },
+        "feee38fd-c103-40e2-acd8-8ae47e8ca51f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-scout-guide_1.png",
+            "link": ""
+          }
+        },
+        "799151df-6c48-4dcd-a4e9-f25a769c3a2c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-the-knot-weddings-hall-of-fame_dk_0.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657595327224972c3-0",
+        "1657595327224972c3-1",
+        "1657595327224972c3-2",
+        "1657595327224972c3-3",
+        "feee38fd-c103-40e2-acd8-8ae47e8ca51f",
+        "799151df-6c48-4dcd-a4e9-f25a769c3a2c"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#4D4D4D",
+        "subheading_color": "#4D4D4D",
+        "background_color": "",
+        "section_spacing_desktop": 0,
+        "section_spacing_mobile": 0
+      }
+    },
+    "1657163585db062b0a": {
+      "type": "dynamic-rich-text",
+      "blocks": {
+        "16571635852f9e61b5-0": {
+          "type": "text",
+          "settings": {
+            "title": "Ready to get started?",
+            "text": "<p>We would love to hear about your wedding. <\/p><p>Fill in the form below and one of our wedding designers will be in touch. <\/p>",
+            "heading_size": "medium",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16571635852f9e61b5-0"
+      ],
+      "settings": {
+        "width": "regular",
+        "background_color": "",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 30
+      }
+    },
+    "16571598412ebfda59": {
+      "type": "apps",
+      "blocks": {
+        "a95f3374-4c6a-49aa-a580-e94b3ff168d4": {
+          "type": "shopify:\/\/apps\/form-builder-with-file-upload\/blocks\/form-block\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+          "settings": {
+            "form_uuid": "WHOLQB9bcA0ylV1lPmwoYw"
+          }
+        }
+      },
+      "block_order": [
+        "a95f3374-4c6a-49aa-a580-e94b3ff168d4"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "1655763975c48e8982",
+    "1657158463d5a449a9",
+    "1656885005d825d1c9",
+    "1657595327dabcee21",
+    "1657163585db062b0a",
+    "16571598412ebfda59"
+  ]
+}

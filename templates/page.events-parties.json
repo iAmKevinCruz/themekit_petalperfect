@@ -1,0 +1,404 @@
+{
+  "sections": {
+    "main": {
+      "type": "static-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1655763975c48e8982": {
+      "type": "static-slideshow",
+      "blocks": {
+        "1655763975ad41f938-0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/WeddingsPageDesktop2.jpg",
+            "background_image_mobile": "shopify:\/\/shop_images\/WeddingsPageMobile1.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "none",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "1655763975ad41f938-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "1655763975ad41f938-0",
+        "1655763975ad41f938-1"
+      ],
+      "settings": {
+        "show_slideshow": true,
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_height": "original"
+      }
+    },
+    "1657158463d5a449a9": {
+      "type": "dynamic-rich-text",
+      "blocks": {
+        "165715846378341fc0-0": {
+          "type": "text",
+          "settings": {
+            "title": "Your event should be smashing",
+            "text": "<p>We have been providing smashing florals and brilliant decor for our special event clients for over 25 years. Our designs are artful, timeless, and always the talk of the town. <\/p><p>You will work hand-in-hand with our experienced designers to custom-craft your perfect event. <\/p>",
+            "heading_size": "large",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165715846378341fc0-0"
+      ],
+      "settings": {
+        "width": "regular",
+        "background_color": "",
+        "section_spacing_desktop": 25,
+        "section_spacing_mobile": 24
+      }
+    },
+    "1656885005d825d1c9": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "ec3055fc-2fc1-4f7b-94ed-bef5e0318736": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1601999907-Summer_Front.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Bluebird in a box brand launch",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "0729a413-21fd-493d-b8bc-1c4e38f7b3b7": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1597779932-AGM_Dallas_2019_Bar_Frida_8780162c-5523-4dcc-a610-cf50f0b327a9.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Fast Enterprise at the Gaylord Texan",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "22008052-fd88-42e9-b93b-cb7f6baef7f1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1617745496-109_StudioJK_engage14.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Engage Summit",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "d79a7bcf-43a7-45f5-879c-a0a2893b02f0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Imprint_Seawell_Collection_3_cec4342a-6e27-4304-b22e-017a171aef11.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Imprint Events at the Seawell Ballroom",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "1656885005fbe2efcc-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BP_Opening_Collection_Image.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "BP Denver Office Opening",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 50
+          }
+        },
+        "1656885005fbe2efcc-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4837_1_913ef70b-6bfe-4abf-81dd-bbed142068be.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Evolution Salon Glow UP",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "1656885005fbe2efcc-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1597775351-Crate_and_Barrel_Decorus_Photography_Calluna_Events_001album.jpg",
+            "preheading": "",
+            "preheading_color": "#fffcfc",
+            "title": "Crate & Barrel Styled Shoot",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "1656885005fbe2efcc-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1597775223-0004W0297Welcome.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Farm to Table",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "11c74799-0de5-439c-9fab-f6b699469ab3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gaylord_Rockies_Holiday_Collection_Image.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "Christmas at the Gaylord Rockies",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        },
+        "d7c28461-8395-46ae-a799-7300c53f0f3d": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1617745886-0018_COHistory_PlannerLunch_FrancesPhotography.jpg",
+            "preheading": "",
+            "preheading_color": "#4d4d4d",
+            "title": "History Colorado Event Planners Luncheon",
+            "heading_color": "#ffffff",
+            "text": "",
+            "text_color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "top-left",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#734a12",
+            "opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "ec3055fc-2fc1-4f7b-94ed-bef5e0318736",
+        "0729a413-21fd-493d-b8bc-1c4e38f7b3b7",
+        "22008052-fd88-42e9-b93b-cb7f6baef7f1",
+        "d79a7bcf-43a7-45f5-879c-a0a2893b02f0",
+        "1656885005fbe2efcc-3",
+        "1656885005fbe2efcc-1",
+        "1656885005fbe2efcc-0",
+        "1656885005fbe2efcc-2",
+        "11c74799-0de5-439c-9fab-f6b699469ab3",
+        "d7c28461-8395-46ae-a799-7300c53f0f3d"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "background_color": "",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 20,
+        "maintain_aspect_ratio": false,
+        "compress_blocks": false
+      }
+    },
+    "1657163585db062b0a": {
+      "type": "dynamic-rich-text",
+      "blocks": {
+        "16571635852f9e61b5-0": {
+          "type": "text",
+          "settings": {
+            "title": "Ready to get started?",
+            "text": "<p>We would love to hear about your special event. <\/p><p>Fill in the form below and one of our event designers will be in touch. <\/p>",
+            "heading_size": "medium",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16571635852f9e61b5-0"
+      ],
+      "settings": {
+        "width": "regular",
+        "background_color": "",
+        "section_spacing_desktop": 36,
+        "section_spacing_mobile": 20
+      }
+    },
+    "16571598412ebfda59": {
+      "type": "apps",
+      "blocks": {
+        "a95f3374-4c6a-49aa-a580-e94b3ff168d4": {
+          "type": "shopify:\/\/apps\/form-builder-with-file-upload\/blocks\/form-block\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+          "settings": {
+            "form_uuid": "5QH935mjBYWf0RGCh6OS2w"
+          }
+        }
+      },
+      "block_order": [
+        "a95f3374-4c6a-49aa-a580-e94b3ff168d4"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "1655763975c48e8982",
+    "1657158463d5a449a9",
+    "1656885005d825d1c9",
+    "1657163585db062b0a",
+    "16571598412ebfda59"
+  ]
+}

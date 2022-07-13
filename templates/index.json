@@ -1,0 +1,801 @@
+{
+  "sections": {
+    "1655482320c2917666": {
+      "type": "dynamic-logo-list",
+      "blocks": {
+        "6e74de51-0ef3-4d29-9bf0-3a0e3ad429dc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stylemepretty_Logo.png",
+            "link": ""
+          }
+        },
+        "12f43a20-8288-45c8-9463-09a4f6396feb": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/martha-stewart-logo_1.png",
+            "link": ""
+          }
+        },
+        "165548232087d5c4e9-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/InsideWeddings-Logo.png",
+            "link": ""
+          }
+        },
+        "f55115b3-ab13-4096-b850-b3e397d59acc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-scout-guide_1.png",
+            "link": ""
+          }
+        },
+        "165548232087d5c4e9-0": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_2x_6260ac02-ce7f-46f8-b952-ae53b901d5ec.png",
+            "link": ""
+          }
+        },
+        "165548232087d5c4e9-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brides-logo.png",
+            "link": ""
+          }
+        },
+        "165548232087d5c4e9-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed_e5d05a90-7a25-4b59-971a-43e29a871a6c.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6e74de51-0ef3-4d29-9bf0-3a0e3ad429dc",
+        "12f43a20-8288-45c8-9463-09a4f6396feb",
+        "165548232087d5c4e9-1",
+        "f55115b3-ab13-4096-b850-b3e397d59acc",
+        "165548232087d5c4e9-0",
+        "165548232087d5c4e9-2",
+        "165548232087d5c4e9-3"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "background_color": "",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 10
+      }
+    },
+    "1655740141524c7016": {
+      "type": "dynamic-image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_height": "original",
+        "background_color": "",
+        "section_spacing_desktop": 0,
+        "section_spacing_mobile": 0,
+        "image": "shopify:\/\/shop_images\/Thistle_4fd988a3-12d9-40ee-8f4a-6f025e594063.png",
+        "position": "center center",
+        "title": "",
+        "text": "",
+        "content_position": "center-center",
+        "overlay_style": "none",
+        "color": "#ffffff",
+        "overlay_background": "#000000",
+        "overlay_opacity": 50,
+        "link": "",
+        "button_text": ""
+      }
+    },
+    "grid": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "grid-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GridGraphic2.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Order flowers",
+            "heading_color": "#ffffff",
+            "text": "<p>Choose from our selection of designs, or trust our designers to craft the perfect arrangement for you<\/p>",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "bottom-center",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#000000",
+            "opacity": 40
+          }
+        },
+        "grid-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GridGraphic3.jpg",
+            "preheading": "",
+            "preheading_color": "#ffffff",
+            "title": "Book a consultation",
+            "heading_color": "#ffffff",
+            "text": "<p>Work hand-in-hand with our experienced designers to bring your wedding or special event to life<\/p>",
+            "text_color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "signpost_color": "#4d4d4d",
+            "text_alignment": "bottom-center",
+            "promo_width": "half-width",
+            "desktop_height": 380,
+            "mobile_height": 270,
+            "overlay_style": "gradient",
+            "background": "#000000",
+            "opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "grid-1",
+        "grid-2"
+      ],
+      "settings": {
+        "title": "How can we help?",
+        "subheading": "",
+        "heading_color": "#303638",
+        "subheading_color": "#4d5957",
+        "background_color": "#f2ece3",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 30,
+        "maintain_aspect_ratio": false,
+        "compress_blocks": false
+      }
+    },
+    "featured-collections": {
+      "type": "dynamic-featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "floral",
+            "image": "shopify:\/\/shop_images\/Sandie.jpg",
+            "title": "Order Flowers for Delivery or Local Pickup",
+            "title_mobile": "Order Floral"
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "build-a-box",
+            "image": "shopify:\/\/shop_images\/GiftBoxes_c856341b-d3fe-4d1e-93f4-b9ac1a83adfd.jpg",
+            "title": "Shop Curated Gift Boxes",
+            "title_mobile": "Shop Gift Boxes"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#212121",
+        "subheading_color": "#4d4d4d",
+        "background_color": "#fdfaf4",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 10,
+        "image": "shopify:\/\/shop_images\/WeddingsMosaic1.jpg",
+        "promo_title": "",
+        "text": "",
+        "color": "#ffffff",
+        "block_link": "",
+        "button_text": "Button",
+        "button_style": "primary",
+        "text_alignment": "top-left",
+        "overlay_style": "none",
+        "overlay_color": "#000000",
+        "opacity": 42,
+        "collection_label_style": "heading",
+        "collection_text_alignment": "left"
+      }
+    },
+    "16557401247b5d05d9": {
+      "type": "static-slideshow",
+      "blocks": {
+        "165574012408848df3-0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/FrameDesktop.png",
+            "background_image_mobile": "shopify:\/\/shop_images\/FrameMobile_7d2eb182-d51d-4cb4-a740-5e82fc2ce31e.png",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "none",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "165574012408848df3-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/MeetThePetals_eba19575-65de-4ff6-85e5-8b5ef007d5a2.jpg",
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "ce18341f-3b8e-4beb-bde7-0b4432791c5c": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "165574012408848df3-0",
+        "165574012408848df3-1",
+        "ce18341f-3b8e-4beb-bde7-0b4432791c5c"
+      ],
+      "settings": {
+        "show_slideshow": true,
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_height": "original"
+      }
+    },
+    "1655740060d6dd9f23": {
+      "type": "dynamic-promo-mosaic",
+      "disabled": true,
+      "blocks": {
+        "1655740060a319de33-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WeddingsMosaic2_dd9c51b0-f215-4b09-bd86-5d1c71b5cb4e.jpg",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "overlay_style": "none",
+            "background": "#303638",
+            "opacity": 50
+          }
+        },
+        "1655740060a319de33-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FloralDesignMosaic.jpg",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "overlay_style": "none",
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "1655740060a319de33-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EventsMosaic2_98d6320d-430a-4a83-8bc4-5e5bd93485d5.jpg",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "overlay_style": "none",
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "1655740060a319de33-0",
+        "1655740060a319de33-2",
+        "1655740060a319de33-1"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "section_height": "small",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "background_color": "",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 36,
+        "text_alignment": "top-left",
+        "maintain_aspect_ratio": false,
+        "compress_blocks": false
+      }
+    },
+    "rich-text-1": {
+      "type": "dynamic-rich-text",
+      "blocks": {
+        "text-1": {
+          "type": "text",
+          "settings": {
+            "title": "WHO WE ARE",
+            "text": "<p>The Perfect Petal is a creative design community within a full service floral company, serving the greater Denver area for over 25 years. Our passionate team of experienced floral designers is ready to transform your moments, spaces and living areas into more beautiful and wonder-filled environments.<\/p>",
+            "heading_size": "large",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text-1"
+      ],
+      "settings": {
+        "width": "regular",
+        "background_color": "#fdfaf4",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 15
+      }
+    },
+    "collection-list": {
+      "type": "dynamic-collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "floral",
+            "image": "shopify:\/\/shop_images\/OrderFloral_192f5019-e50e-4ba4-a717-10523bda24b1.jpg",
+            "collection_label": "Order Flowers",
+            "mobile_collection_label": "Order Floral"
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "build-a-box",
+            "image": "shopify:\/\/shop_images\/GiftBoxes_b32d7bb6-020c-4ce2-a96b-145d15bf0bb5.jpg",
+            "collection_label": "Curated Gift Boxes",
+            "mobile_collection_label": "Curated Gift Boxes"
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "bath-body",
+            "collection_label": "",
+            "mobile_collection_label": ""
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-pantry",
+            "image": "shopify:\/\/shop_images\/PP_Strongwater_AromaticBitters_Styled.jpg",
+            "collection_label": "",
+            "mobile_collection_label": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "candles-home-fragrance",
+            "image": "shopify:\/\/shop_images\/Candles.jpg",
+            "collection_label": "Candles + Home Fragrance",
+            "mobile_collection_label": "Candles + Home Fragrance"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "baby",
+            "collection_label": "",
+            "mobile_collection_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-5",
+        "collection-6",
+        "collection-4",
+        "collection-3"
+      ],
+      "settings": {
+        "title": "SHOP WITH US",
+        "subheading": "",
+        "heading_color": "#212121",
+        "subheading_color": "#4d4d4d",
+        "background_color": "#fdfaf4",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 30,
+        "label_style": "label-style-body",
+        "text_alignment": "center",
+        "desktop_collections_per_row": 3,
+        "display_desktop_collections": "2",
+        "desktop_collection_width": "desktop-full-width",
+        "layout_collection_max_width": 1600,
+        "desktop_collection_max_width": 500,
+        "mobile_collections_per_row": 2,
+        "display_mobile_collections": "2",
+        "mobile_collection_width": "mobile-full-width",
+        "mobile_collection_max_width": 80
+      }
+    },
+    "highlights-banner": {
+      "type": "dynamic-highlights-banners",
+      "blocks": {
+        "highlight-1": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-delivery",
+            "title": "LOCAL DELIVERY",
+            "text": "<p>To the Denver Metro Area<\/p>",
+            "link": ""
+          }
+        },
+        "highlight-4": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-pin",
+            "title": "FREE IN-STORE PICKUP",
+            "text": "<p>At our Denver Highlands Shop<\/p>",
+            "link": ""
+          }
+        },
+        "highlight-2": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-cell-phone",
+            "title": "(303) 480-0966",
+            "text": "<p>Questions? Give us a call <\/p>",
+            "link": ""
+          }
+        },
+        "highlight-3": {
+          "type": "highlight",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-chat-alternate",
+            "title": "Chat with us",
+            "text": "<p>We offer 24-hour chat support<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "highlight-1",
+        "highlight-4",
+        "highlight-2",
+        "highlight-3"
+      ],
+      "settings": {
+        "background_color": "#c9862b",
+        "section_spacing_desktop": 20,
+        "section_spacing_mobile": 20,
+        "text_alignment": "center",
+        "heading_color": "#ffffff",
+        "color": "#ffffff",
+        "icon_color": "#ffffff",
+        "dividers_color": "#c9862b",
+        "inner_background_color": "#c9862b"
+      }
+    },
+    "testimonials": {
+      "type": "dynamic-testimonials",
+      "blocks": {
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_1_11.png",
+            "quote": "<p>The beloved shop's friendly staff is always on point with advice, whether it's a flower emergency or a last-minute gift stop.<\/p>",
+            "show_quotations": true,
+            "citation": "<p>- 5280 Magazine <\/p>"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WeddingsHP2_56d6b323-db28-4948-8824-d4b84be791a2.jpg",
+            "quote": "<p>The event was truly amazing. We are so thankful for the creativity, flexibility and support you gave us all. You are a beautifully talented group and I feel extraordinarily thankful to work with each one of you. <\/p>",
+            "show_quotations": true,
+            "citation": "<p>- Sheri Muilenburg, Children's Hospital Foundation<\/p>"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_142_10.jpg",
+            "quote": "<p>Never before has a CultureHaus event been so beautiful, and your amazing decor and florals set the scene perfectly. <\/p>",
+            "show_quotations": true,
+            "citation": "<p>- CultureHaus Board of Directors <\/p>"
+          }
+        },
+        "ec6f937c-476d-46ba-ab40-6e88069e6791": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sandie.jpg",
+            "quote": "<p>Thank you for your unparalleled magic! <\/p>",
+            "show_quotations": true,
+            "citation": "<p>- Della Terra Mountain Chateaux <\/p>"
+          }
+        },
+        "fd56498b-0662-4e00-8caf-3668ca195d0c": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_1_5.png",
+            "quote": "<p>We are still trying to get our heads around how amazing the entire weekend went. You and your team were incredible partners - huge thanks for taking on this project. <\/p>",
+            "show_quotations": true,
+            "citation": "<p>- Shanette Vega, Food and Wine<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "ec6f937c-476d-46ba-ab40-6e88069e6791",
+        "fd56498b-0662-4e00-8caf-3668ca195d0c"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "subtitle": "",
+        "title_color": "#212121",
+        "subtitle_color": "#212121",
+        "background_color": "#f2ece3",
+        "spacing_desktop": 33,
+        "spacing_mobile": 30
+      }
+    },
+    "video": {
+      "type": "dynamic-video",
+      "disabled": true,
+      "settings": {
+        "title": "Video",
+        "subheading": "",
+        "heading_color": "#212121",
+        "subheading_color": "#4d4d4d",
+        "background_color": "",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 30,
+        "url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "show_caption": false,
+        "caption": "<p>A short description of the video.<\/p>",
+        "autoplay": false,
+        "aspect_ratio": "21-9",
+        "position": "top-center",
+        "show_overlay": false,
+        "background": "#000000",
+        "opacity": 20
+      }
+    },
+    "blog-posts": {
+      "type": "dynamic-blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "Blog posts",
+        "subheading": "",
+        "heading_color": "#212121",
+        "subheading_color": "#4d4d4d",
+        "background_color": "#f2ece3",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 30,
+        "blog": "",
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "view_all_text": "See more posts",
+        "view_all_button_style": "primary"
+      }
+    },
+    "newsletter": {
+      "type": "dynamic-newsletter",
+      "disabled": true,
+      "settings": {
+        "title": "Newsletter",
+        "subheading": "<p>Invite customers to join your mailing list.<\/p>",
+        "heading_color": "#212121",
+        "subheading_color": "#212121",
+        "background_color": "#f2ece3",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 50,
+        "desktop_alignment": "left",
+        "mobile_alignment": "top"
+      }
+    },
+    "highlights-banner-2": {
+      "type": "dynamic-highlights-banners",
+      "disabled": true,
+      "blocks": {
+        "highlight-1": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-delivery",
+            "title": "Free shipping",
+            "text": "<p>When you spend $100+<\/p>",
+            "link": ""
+          }
+        },
+        "highlight-2": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-cell-phone",
+            "title": "Give us a call",
+            "text": "<p>+1 (201) 555-5555<\/p>",
+            "link": ""
+          }
+        },
+        "highlight-3": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-chat-alternate",
+            "title": "Chat with us",
+            "text": "<p>We offer 24-hour chat support<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "highlight-1",
+        "highlight-2",
+        "highlight-3"
+      ],
+      "settings": {
+        "background_color": "#e7e1d7",
+        "section_spacing_desktop": 36,
+        "section_spacing_mobile": 20,
+        "text_alignment": "center",
+        "heading_color": "#212121",
+        "color": "#212121",
+        "icon_color": "#212121",
+        "dividers_color": "#d6cfc5",
+        "inner_background_color": "#e7e1d7"
+      }
+    },
+    "1655761547fa7b7e93": {
+      "type": "static-slideshow",
+      "disabled": true,
+      "blocks": {
+        "16557615476bdc0eb0-0": {
+          "type": "slide",
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "16557615476bdc0eb0-1": {
+          "type": "slide",
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "button_three_label": "",
+            "button_three_link": "",
+            "button_three_style": "primary",
+            "button_four_label": "",
+            "button_four_link": "",
+            "button_four_style": "primary",
+            "overlay_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "16557615476bdc0eb0-0",
+        "16557615476bdc0eb0-1"
+      ],
+      "settings": {
+        "show_slideshow": true,
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_height": "medium"
+      }
+    }
+  },
+  "order": [
+    "1655482320c2917666",
+    "1655740141524c7016",
+    "grid",
+    "featured-collections",
+    "16557401247b5d05d9",
+    "1655740060d6dd9f23",
+    "rich-text-1",
+    "collection-list",
+    "highlights-banner",
+    "testimonials",
+    "video",
+    "blog-posts",
+    "newsletter",
+    "highlights-banner-2",
+    "1655761547fa7b7e93"
+  ]
+}
